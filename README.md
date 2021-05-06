@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=reissaavedra.com&style=for-the-badge&url=https://reissaavedra.com)](https://reissaavedra.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/reissaavedra?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SaavedraReisson)
 
-## I'm a Data Engineer/Data Scientist!!
+## I'm a Data Engineer / Data Scientist!!
 
 - 🥇 I won Hackathon MIT Hack4TheFuture 2020 
 - 🌱 I’m currently learning everything (Blockchain, Graph-DL, Reinforcement Learning, Data Flows)
