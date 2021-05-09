@@ -1,6 +1,6 @@
 ### Hi there, I'm Reisson Saavedra - aka [reissaavedra][website] 👋
 
-[![Website](https://img.shields.io/website?label=reissaavedra.com&style=for-the-badge&url=https://reissaavedra.com)](https://reissaavedra.com)
+[![Website](https://img.shields.io/website?label=reissaavedra.com&style=for-the-badge&url=https://reissaaavedra.netlify.app/)](https://reissaaavedra.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/reissaavedra?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SaavedraReisson)
 
 ## I'm a Data Engineer / Data Scientist!!
@@ -37,6 +37,6 @@
 ---
 
 
-[website]: https://reissaavedra.com
+[website]: https://reissaaavedra.netlify.app/
 [twitter]: https://twitter.com/SaavedraReisson
 [linkedin]: https://www.linkedin.com/in/reisson-saavedra/
