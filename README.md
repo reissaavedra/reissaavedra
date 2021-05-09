@@ -6,8 +6,8 @@
 ## I'm a Data Engineer / Data Scientist!!
 
 - 🥇 I won Hackathon MIT Hack4TheFuture 2020 
-- 🌱 I’m currently learning everything (Blockchain, Graph-DL, Reinforcement Learning, Data Flows)
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning everything (Graph-DL, Blockchain, Reinforcement Learning, Data Flows)
+- 👯 I’m looking to collaborate with other researchers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
