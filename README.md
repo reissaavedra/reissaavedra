@@ -6,7 +6,7 @@
 ## I'm a Data Engineer / Data Scientist!!
 
 - 🥇 I won Hackathon MIT Hack4TheFuture 2020 
-- 🌱 I’m currently learning everything (Climate change, Blockchain, Machine Learning)
+- 🌱 I’m currently learning everything (Climate change, Blockchain, Deep Reinforcement Learning, Finance)
 - 👯 I’m looking to collaborate with other researchers
 
 
