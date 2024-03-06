@@ -6,7 +6,7 @@
 ## I'm a ML Engineer!!
 
 - 🥇 I won Hackathon MIT Hack4TheFuture 2020 
-- 🌱 I’m currently learning everything (Climate change, Blockchain, Deep Reinforcement Learning, Finance)
+- 🌱 I’m currently learning everything (Climate change, Blockchain, Machine Learning, Finance)
 - 👯 I’m looking to collaborate with other researchers
 
 
