@@ -4,9 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/reissaavedra?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SaavedraReisson)
 
 - 🥇 I won Hackathon MIT Hack4TheFuture 2020 
-- 🌱 I’m currently learning everything (Climate change, Blockchain, Machine Learning, Finance)
-- 👯 I’m looking to collaborate with other researchers
-
+- 🌱 Hardworking
 
 ### Connect with me:
 
