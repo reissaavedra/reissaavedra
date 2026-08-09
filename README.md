@@ -1,35 +1,37 @@
-### Hi there, I'm Reisson Saavedra - aka [reissaavedra][website] 👋
+<div align="center">
 
-[![Website](https://img.shields.io/website?label=reissaaavedra.netlify.app&style=for-the-badge&url=https://reissaaavedra.netlify.app/)](https://reissaaavedra.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/reissaavedra?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SaavedraReisson)
+# Reisson Saavedra
 
-- 🥇 I won Hackathon MIT Hack4TheFuture 2020 
-- 🌱 Hardworking
+**CTO & Co-founder · Machine Learning Engineer · Data Systems Builder**
 
-### Connect with me:
+*Based in Peru. Building for Latin America.*
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reisson%20Saavedra-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/reisson-saavedra/)
+[![X](https://img.shields.io/badge/X-@SaavedraReisson-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/SaavedraReisson)
 
-<br />
+</div>
 
-### Languages and Tools:
+## About me
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+I'm a Peruvian engineer and founder building machine learning products and the data platforms behind them. My work sits at the intersection of applied AI, recommendation systems, MLOps, and reliable data infrastructure.
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+* **CTO & Co-founder at Tina** — building AI-native products for insurance and real estate in Latin America.
+* **Former Machine Learning Engineer at Rappi** — worked on ads, recommendations, and personalization at scale.
+* **Winner**, MIT Hack4TheFuture 2020.
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+## What I build
 
-<img align="left" alt="Scala" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" />
+* Production ML systems for ranking, recommendation, prediction, and decision-making.
+* LLM applications and agents with grounded workflows and measurable evaluation.
+* Batch and streaming data platforms with strong lineage, quality controls, and observability.
+* Cloud infrastructure that turns research and prototypes into dependable products.
 
-<br />
-<br />
+## Current focus
 
----
+I'm building decision infrastructure for high-friction Latin American markets—starting with insurance and real estate—and exploring how data, geospatial context, and AI can make complex decisions simpler.
 
+## Core toolkit
 
-[website]: https://reissaaavedra.netlify.app/
-[twitter]: https://twitter.com/SaavedraReisson
-[linkedin]: https://www.linkedin.com/in/reisson-saavedra/
+`Python` · `SQL` · `Scala` · `PyTorch` · `Spark` · `Kafka` · `Airflow` · `PostgreSQL / PostGIS` · `AWS` · `Docker` · `Kubernetes`
+
+> My long-term mission is to help build world-class technology companies from Peru.
