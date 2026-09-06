@@ -11,27 +11,40 @@
 
 </div>
 
-## About me
+**Building technology that helps people make better decisions.**
 
-I'm a Peruvian engineer and founder building machine learning products and the data platforms behind them. My work sits at the intersection of applied AI, recommendation systems, MLOps, and reliable data infrastructure.
+I'm a Peruvian engineer and the co-founder and CTO of Tina. My work brings together machine learning, recommendation systems and the data infrastructure needed to make them useful in practice.
 
-* **CTO & Co-founder at Tina** — building AI-native products for insurance and real estate in Latin America.
-* **Former Machine Learning Engineer at Rappi** — worked on ads, recommendations, and personalization at scale.
-* **Winner**, MIT Hack4TheFuture 2020.
+## What I'm building
 
-## What I build
+At Tina, we're building AI products for insurance and housing in Latin America:
 
-* Production ML systems for ranking, recommendation, prediction, and decision-making.
-* LLM applications and agents with grounded workflows and measurable evaluation.
-* Batch and streaming data platforms with strong lineage, quality controls, and observability.
-* Cloud infrastructure that turns research and prototypes into dependable products.
+- **Tina Sure** — making insurance easier to access and buy through AI and WhatsApp.
+- **Tina Vive** — combining AI and geospatial context to help people decide where to live and find a home that fits their lives.
 
-## Current focus
+These products are part of a broader interest: how technology can help people navigate decisions that depend on their circumstances, goals and constraints.
 
-I'm building decision infrastructure for high-friction Latin American markets—starting with insurance and real estate—and exploring how data, geospatial context, and AI can make complex decisions simpler.
+## Questions I'm exploring
 
-## Core toolkit
+- What context does software need before it can help someone make a good decision?
+- What changes when a recommendation system optimizes for the interests of the person using it?
+- How do we measure whether a system actually helped someone choose well?
 
-`Python` · `SQL` · `Scala` · `PyTorch` · `Spark` · `Kafka` · `Airflow` · `PostgreSQL / PostGIS` · `AWS` · `Docker` · `Kubernetes`
+I'm interested in what technology changes about human behavior, markets and everyday life.
+Building products is how I test those ideas.
+
+## Engineering
+
+I work across production ML, recommendation and ranking systems, LLM applications, geospatial data and data platforms.
+
+Much of that work involves getting the data right, evaluating system behavior and making the whole thing reliable enough for people to depend on.
+
+## Background
+
+Before Tina, I worked on ads, recommendations and personalization at **Rappi**, and on ML operations at **Tul**.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/reisson-saavedra/) · [X](https://x.com/SaavedraReisson)
 
 > My long-term mission is to help build world-class technology companies from Peru.
